@@ -1,0 +1,13 @@
+transformers>=4.40.0
+datasets>=2.18.0
+evaluate>=0.4.2
+accelerate>=0.29.0
+torch
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+nbformat
+nbclient
