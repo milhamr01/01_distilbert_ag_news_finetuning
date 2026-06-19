@@ -39,9 +39,6 @@ This project covers the full deep learning NLP pipeline:
 │   └── 01_distilbert_ag_news_finetuning.ipynb
 ├── reports/
 │   └── evaluation_summary.md
-└── models/
-    └── .gitkeep
-```
 
 ## Notebook Description
 
@@ -183,7 +180,6 @@ jupyter notebook
 - **Name:** MUHAMMAD ILHAM RAYANDA
 - **Class:** Deep Learning
 - **NIM:** 1103223199
-- **Group:** Fill your group name/member list here
 
 ## Conclusion
 
